@@ -41,9 +41,3 @@ Need a different diameter? Use the Onshape link below for a fully configurable v
 
 ### Assembly Visuals:
 ![Insert Assembly](/opSpool/Images/opSpoolAsmbISO.png)
-
----
-
-## Credits
-
-Developed and maintained by: **Myself**
