@@ -30,8 +30,7 @@ Need a different diameter? Use the Onshape link below for a fully configurable v
 - **4x M4 22mm BHCS**  
   *(Button Head Cap Screws)*
 
-- **String**  
-  *(Recommended: Kite String)*
+- **Kevlar Kite String**  
 
 ---
 
