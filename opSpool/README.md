@@ -1,9 +1,9 @@
-# opSpool
+# opSpool - [Click here to access the STL files](/opSpool/STLs)
 <p align="center">
 <img src="/opSpool/Images/opSpoolISO.png" alt="Insert ISO" width="500">
    </p>
    
-## [Click here to access the STL files](/opSpool/STLs)
+
 
 ## Overview
 
