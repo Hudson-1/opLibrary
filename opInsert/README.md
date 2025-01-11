@@ -46,9 +46,3 @@ Want to modify the design? Use the Onshape link below for a fully configurable v
   <img src="/opInsert/Images/InsertAsmb.png" alt="Insert Assembly" width="45%">
   <img src="/opInsert/Images/InsertAsmbExtended.png" alt="Extended Insert Assembly" width="45%">
 </p>
-
----
-
-## Credits
-
-Developed and maintained by: **Myself**
