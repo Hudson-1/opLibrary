@@ -30,9 +30,9 @@ Want to modify the design? Use the Onshape link below for a fully configurable v
 - **1x M3 Lock Nut**
 
 - **1x M3 V-Groove Pulley**  
-  *(Dimensions: 3x12x4)*
+  *(Dimensions: 3mmx12mmx4mm)*
 
-- **2x Misumi TSAR 4-12**
+- **2x Misumi TSARA 4-12**
 
 ---
 
