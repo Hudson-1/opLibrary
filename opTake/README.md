@@ -5,7 +5,7 @@
    
 ## Overview
 
-opTake is an open source solution for connecting surgical tubing to a shaft for intaking elements. This github provides the 8 rex split version of both the yellow and blue version of opTake. A link to the tubing used in this example will be provided below.
+opTake is an open source solution for connecting surgical tubing to a shaft for intaking elements. This Github provides the 8 rex split version of both the yellow and blue version of opTake. A link to the tubing used in this example will be provided below.
 
 ---
 
