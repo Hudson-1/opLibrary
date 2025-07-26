@@ -1,4 +1,3 @@
-# ![Downloads](https://img.shields.io/github/downloads/Hudson-1/opLibrary/total)
 # opLibrary
 
 <p align="center">
